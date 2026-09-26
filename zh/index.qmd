@@ -3,13 +3,13 @@ title: "林顼"
 pagetitle: "林顼 | 厦门大学金融系"
 about:
   template: trestles
-  image: ../images/profile.svg
+  image: ../images/profile.jpg
   image-width: 13em
   image-shape: rectangle
   links:
     - icon: envelope
       text: 邮箱
-      href: "mailto:your-email@stu.xmu.edu.cn"
+      href: "mailto:15606089705@163.com"
     - icon: file-earmark-text
       text: 简历
       href: ../files/cv-zh.pdf

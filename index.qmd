@@ -3,13 +3,13 @@ title: "Xu Lin"
 pagetitle: "Xu Lin | Finance, Xiamen University"
 about:
   template: trestles
-  image: images/profile.svg
+  image: images/profile.jpg
   image-width: 13em
   image-shape: rectangle
   links:
     - icon: envelope
       text: Email
-      href: "mailto:your-email@stu.xmu.edu.cn"
+      href: "mailto:15606089705@163.com"
     - icon: file-earmark-text
       text: CV
       href: files/cv-en.pdf
