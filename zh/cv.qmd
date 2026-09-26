@@ -1,0 +1,9 @@
+---
+title: "个人简历"
+---
+
+[下载简历（PDF）](../files/cv-zh.pdf){.btn .btn-outline-primary .btn-sm}
+
+更新日期：20XX-XX
+
+<iframe class="cv-embed" src="../files/cv-zh.pdf" title="简历"></iframe>

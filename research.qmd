@@ -1,0 +1,54 @@
+---
+title: "Research"
+---
+
+<!--
+  每篇论文复制一个 ::: {.paper} ... ::: 块即可。
+  PDF 放在 files/papers/ 文件夹，链接写成 files/papers/文件名.pdf
+  没有的链接（如 Slides）直接删掉那一项。
+-->
+
+## Working Papers
+
+::: {.paper}
+[Paper Title One]{.paper-title}
+
+[with Coauthor Name]{.paper-meta}
+
+[[PDF](#)]{.paper-links} [[Slides](#)]{.paper-links}
+
+<details><summary>Abstract</summary>
+
+This paper studies ... Using ..., I find that ... The results suggest that ...
+
+</details>
+:::
+
+::: {.paper}
+[Paper Title Two]{.paper-title}
+
+[Solo-authored · Presented at: Conference A, Conference B]{.paper-meta}
+
+[[PDF](#)]{.paper-links}
+
+<details><summary>Abstract</summary>
+
+This paper examines ... Exploiting a staggered difference-in-differences design, I show that ...
+
+</details>
+:::
+
+## Work in Progress
+
+::: {.paper}
+[Project Title Three]{.paper-meta}
+:::
+
+::: {.paper}
+[Project Title Four (with Coauthor Name)]{.paper-meta}
+:::
+
+## Publications
+
+<!-- 有了发表再加在这里；没有的话可以先把这一节删掉。 -->
+*Coming soon.*

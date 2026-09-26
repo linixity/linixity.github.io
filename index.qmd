@@ -1,0 +1,48 @@
+---
+title: "Xu Lin"
+pagetitle: "Xu Lin | Finance, Xiamen University"
+about:
+  template: trestles
+  image: images/profile.svg
+  image-width: 13em
+  image-shape: rectangle
+  links:
+    - icon: envelope
+      text: Email
+      href: "mailto:your-email@stu.xmu.edu.cn"
+    - icon: file-earmark-text
+      text: CV
+      href: files/cv-en.pdf
+    - icon: mortarboard
+      text: Google Scholar
+      href: "https://scholar.google.com/"
+    - icon: github
+      text: GitHub
+      href: "https://github.com/"
+---
+
+::: {.role}
+Ph.D. Student in Finance · Department of Finance, School of Economics, Xiamen University
+:::
+
+I am a Ph.D. student in Finance at the School of Economics, Xiamen University. My research lies at the intersection of **corporate finance**, **international trade**, and **environmental economics**, with a focus on applied microeconometrics and causal inference using Chinese firm-level data.
+
+<!-- 用两三句话介绍你的研究问题和方法。下面是写法示例，可以直接改。 -->
+My current work studies how government policies, such as environmental regulation, trade shocks, and public procurement, shape firms' investment, innovation, and export decisions.
+
+## Research Interests
+
+Corporate Finance · International Trade · Environmental Economics · Innovation · Applied Econometrics
+
+## Education
+
+**Ph.D. in Finance**, Xiamen University, 2024 – present\
+**M.A. in Economics**, [University], 20XX\
+**B.A. in Economics**, [University], 20XX
+
+::: {.news}
+## News
+
+- [20XX-XX]{.date} New working paper: "[Paper Title]" is now available.
+- [20XX-XX]{.date} Presented at [Conference Name].
+:::

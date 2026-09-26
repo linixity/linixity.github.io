@@ -1,0 +1,53 @@
+---
+title: "研究"
+---
+
+<!--
+  每篇论文复制一个 ::: {.paper} ... ::: 块即可。
+  PDF 放在 files/papers/ 文件夹，中文页面里的链接写成 ../files/papers/文件名.pdf
+-->
+
+## 工作论文
+
+::: {.paper}
+[论文标题一]{.paper-title}
+
+[与 合作者姓名 合作]{.paper-meta}
+
+[[PDF](#)]{.paper-links} [[幻灯片](#)]{.paper-links}
+
+<details><summary>摘要</summary>
+
+本文研究……利用……数据，发现……结果表明……
+
+</details>
+:::
+
+::: {.paper}
+[论文标题二]{.paper-title}
+
+[独立作者 · 报告于：会议 A、会议 B]{.paper-meta}
+
+[[PDF](#)]{.paper-links}
+
+<details><summary>摘要</summary>
+
+本文考察……基于交错双重差分设计，发现……
+
+</details>
+:::
+
+## 在研项目
+
+::: {.paper}
+[项目标题三]{.paper-meta}
+:::
+
+::: {.paper}
+[项目标题四（与 合作者姓名 合作）]{.paper-meta}
+:::
+
+## 发表论文
+
+<!-- 有了发表再加在这里；没有的话可以先把这一节删掉。 -->
+*敬请期待。*

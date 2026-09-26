@@ -1,0 +1,48 @@
+---
+title: "林顼"
+pagetitle: "林顼 | 厦门大学金融系"
+about:
+  template: trestles
+  image: ../images/profile.svg
+  image-width: 13em
+  image-shape: rectangle
+  links:
+    - icon: envelope
+      text: 邮箱
+      href: "mailto:your-email@stu.xmu.edu.cn"
+    - icon: file-earmark-text
+      text: 简历
+      href: ../files/cv-zh.pdf
+    - icon: mortarboard
+      text: Google Scholar
+      href: "https://scholar.google.com/"
+    - icon: github
+      text: GitHub
+      href: "https://github.com/"
+---
+
+::: {.role}
+金融学博士研究生 · 厦门大学经济学院金融系
+:::
+
+我是厦门大学经济学院金融系博士研究生，研究领域为**公司金融**、**国际贸易**与**环境经济学**，主要使用中国企业层面数据开展应用微观计量与因果推断研究。
+
+<!-- 用两三句话介绍你的研究问题和方法。下面是写法示例，可以直接改。 -->
+目前的研究关注环境规制、贸易冲击和政府采购等政策如何影响企业的投资、创新与出口决策。
+
+## 研究领域
+
+公司金融 · 国际贸易 · 环境经济学 · 创新 · 应用计量经济学
+
+## 教育背景
+
+**金融学博士**，厦门大学，2024 年至今\
+**经济学硕士**，[学校]，20XX 年\
+**经济学学士**，[学校]，20XX 年
+
+::: {.news}
+## 最新动态
+
+- [20XX-XX]{.date} 新工作论文《[论文标题]》已上线。
+- [20XX-XX]{.date} 在[会议名称]报告论文。
+:::

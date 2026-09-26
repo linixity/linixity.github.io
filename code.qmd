@@ -1,0 +1,25 @@
+---
+title: "Data & Code"
+---
+
+Replication packages and research tools. Code is written in Stata and Python.
+
+## Replication Packages
+
+::: {.paper}
+[Paper Title One]{.paper-title}
+
+[Stata · Data sources: CSMAR, Chinese customs data]{.paper-meta}
+
+[[Replication package](#)]{.paper-links} [[README](#)]{.paper-links}
+:::
+
+## Tools
+
+::: {.paper}
+[Tool or Template Name]{.paper-title}
+
+[A short description of what the tool does.]{.paper-meta}
+
+[[GitHub](#)]{.paper-links}
+:::

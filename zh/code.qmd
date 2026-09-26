@@ -1,0 +1,25 @@
+---
+title: "数据与代码"
+---
+
+论文复现材料与研究工具，代码使用 Stata 和 Python 编写。
+
+## 复现材料
+
+::: {.paper}
+[论文标题一]{.paper-title}
+
+[Stata · 数据来源：CSMAR、中国海关数据]{.paper-meta}
+
+[[复现包](#)]{.paper-links} [[说明文档](#)]{.paper-links}
+:::
+
+## 研究工具
+
+::: {.paper}
+[工具或模板名称]{.paper-title}
+
+[用一句话说明这个工具能做什么。]{.paper-meta}
+
+[[GitHub](#)]{.paper-links}
+:::

@@ -1,0 +1,56 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - files/
+    - images/
+
+website:
+  title: "Xu Lin 林顼"
+  # 上线后把下面这行改成你的网址，例如 https://yourname.github.io
+  # site-url: https://yourname.github.io
+  favicon: images/favicon.svg
+  page-navigation: false
+  navbar:
+    background: light
+    left:
+      # ---- English navigation (shown on English pages) ----
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: code.qmd
+        text: Data & Code
+      - href: cv.qmd
+        text: CV
+      # ---- 中文导航（只在中文页面显示）----
+      - href: zh/index.qmd
+        text: 首页
+      - href: zh/research.qmd
+        text: 研究
+      - href: zh/teaching.qmd
+        text: 教学
+      - href: zh/code.qmd
+        text: 数据与代码
+      - href: zh/cv.qmd
+        text: 简历
+    right:
+      # 语言切换按钮：assets/lang-switch.html 会把它指向当前页面的另一语言版本
+      - href: zh/index.qmd#lang-zh
+        text: 中文
+      - href: index.qmd#lang-en
+        text: English
+  page-footer:
+    center: "© 2026 Xu Lin 林顼 · Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme:
+      - cosmo
+      - assets/styles.scss
+    toc: false
+    lang: en
+    smooth-scroll: true
+    include-after-body: assets/lang-switch.html

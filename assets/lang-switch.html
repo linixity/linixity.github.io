@@ -1,0 +1,16 @@
+<script>
+// 语言切换：把「中文 / English」按钮指向当前页面的另一语言版本
+// 例：/research.html <-> /zh/research.html
+// 按钮的 href 保留 #lang-zh / #lang-en 标记，供 styles.scss 识别；目标页面会忽略这个标记。
+(function () {
+  var m = window.location.pathname.match(/^(.*?\/)(zh\/)?([^\/]*)$/);
+  if (!m) return;
+  var base = m[1], page = m[3] || "index.html";
+  document.querySelectorAll('.navbar a.nav-link[href*="#lang-zh"]').forEach(function (a) {
+    a.href = base + "zh/" + page + "#lang-zh"; a.title = "中文版"; a.lang = "zh";
+  });
+  document.querySelectorAll('.navbar a.nav-link[href*="#lang-en"]').forEach(function (a) {
+    a.href = base + page + "#lang-en"; a.title = "English version"; a.lang = "en";
+  });
+})();
+</script>

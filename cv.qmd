@@ -1,0 +1,9 @@
+---
+title: "Curriculum Vitae"
+---
+
+[Download CV (PDF)](files/cv-en.pdf){.btn .btn-outline-primary .btn-sm}
+
+Last updated: 20XX-XX
+
+<iframe class="cv-embed" src="files/cv-en.pdf" title="CV"></iframe>

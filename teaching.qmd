@@ -1,0 +1,16 @@
+---
+title: "Teaching"
+---
+
+## Teaching Assistant
+
+**[Course Name]** (Undergraduate), Xiamen University\
+Instructor: Prof. [Name] · Fall 20XX, Spring 20XX
+
+**[Course Name]** (Graduate), Xiamen University\
+Instructor: Prof. [Name] · Fall 20XX
+
+## Teaching Materials
+
+<!-- 可以放讲义、习题课材料、Stata 教程等 -->
+- [Stata Tutorial: Difference-in-Differences](#)
