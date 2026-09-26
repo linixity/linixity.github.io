@@ -8,7 +8,7 @@ project:
 website:
   title: "Xu Lin 林顼"
   # 上线后把下面这行改成你的网址，例如 https://yourname.github.io
-  # site-url: https://yourname.github.io
+  site-url: https://linixity.github.io
   favicon: images/favicon.svg
   page-navigation: false
   navbar:
