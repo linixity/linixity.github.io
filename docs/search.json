@@ -4,14 +4,14 @@
     "href": "zh/index.html",
     "title": "林顼",
     "section": "",
-    "text": "金融学博士研究生 · 厦门大学经济学院金融系\n我是厦门大学经济学院金融系博士研究生，研究领域为公司金融、国际贸易与环境经济学，主要使用中国企业层面数据开展应用微观计量与因果推断研究。\n目前的研究关注环境规制、贸易冲击和政府采购等政策如何影响企业的投资、创新与出口决策。"
+    "text": "金融学博士研究生 · 厦门大学经济学院金融系\n我是厦门大学经济学院金融系博士研究生，研究兴趣包括公司金融、绿色治理、创新、地缘政治与商业信用。\n研究主要使用中国企业层面数据和因果推断方法，考察政策冲击如何影响企业的融资、供应链关系与投资决策。"
   },
   {
     "objectID": "zh/index.html#研究领域",
     "href": "zh/index.html#研究领域",
     "title": "林顼",
     "section": "研究领域",
-    "text": "研究领域\n公司金融 · 国际贸易 · 环境经济学 · 创新 · 应用计量经济学"
+    "text": "研究领域\n公司金融 · 绿色治理 · 创新 · 地缘政治 · 商业信用"
   },
   {
     "objectID": "zh/index.html#教育背景",
@@ -25,7 +25,7 @@
     "href": "zh/index.html#最新动态",
     "title": "林顼",
     "section": "最新动态",
-    "text": "最新动态\n\n20XX-XX 新工作论文《[论文标题]》已上线。\n20XX-XX 在[会议名称]报告论文。"
+    "text": "最新动态\n\n2026-05 论文 “Customer deleveraging, bargaining power, and trade credit occupation”（与 Mengnan Zhu 合作）发表于 Economics Letters。"
   },
   {
     "objectID": "zh/code.html",
@@ -81,14 +81,21 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Paper Title One\nwith Coauthor Name\nPDF Slides\n\n\nAbstract\n\nThis paper studies … Using …, I find that … The results suggest that …\n\n\n\nPaper Title Two\nSolo-authored · Presented at: Conference A, Conference B\nPDF\n\n\nAbstract\n\nThis paper examines … Exploiting a staggered difference-in-differences design, I show that …"
+    "text": "Customer deleveraging, bargaining power, and trade credit occupation: Evidence from “Three Red Lines” policy\nwith Mengnan Zhu · Economics Letters, 2026, 264, 112982\nJournal"
+  },
+  {
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Research",
+    "section": "",
+    "text": "Customer deleveraging, bargaining power, and trade credit occupation: Evidence from “Three Red Lines” policy\nwith Mengnan Zhu · Economics Letters, 2026, 264, 112982\nJournal"
   },
   {
     "objectID": "research.html#working-papers",
     "href": "research.html#working-papers",
     "title": "Research",
-    "section": "",
-    "text": "Paper Title One\nwith Coauthor Name\nPDF Slides\n\n\nAbstract\n\nThis paper studies … Using …, I find that … The results suggest that …\n\n\n\nPaper Title Two\nSolo-authored · Presented at: Conference A, Conference B\nPDF\n\n\nAbstract\n\nThis paper examines … Exploiting a staggered difference-in-differences design, I show that …"
+    "section": "Working Papers",
+    "text": "Working Papers\n\nPaper Title One\nwith Coauthor Name\nPDF Slides\n\n\nAbstract\n\nThis paper studies … Using …, I find that … The results suggest that …\n\n\n\nPaper Title Two\nSolo-authored · Presented at: Conference A, Conference B\nPDF\n\n\nAbstract\n\nThis paper examines … Exploiting a staggered difference-in-differences design, I show that …"
   },
   {
     "objectID": "research.html#work-in-progress",
@@ -96,13 +103,6 @@
     "title": "Research",
     "section": "Work in Progress",
     "text": "Work in Progress\n\nProject Title Three\n\n\nProject Title Four (with Coauthor Name)"
-  },
-  {
-    "objectID": "research.html#publications",
-    "href": "research.html#publications",
-    "title": "Research",
-    "section": "Publications",
-    "text": "Publications\n\nComing soon."
   },
   {
     "objectID": "cv.html",
@@ -137,14 +137,14 @@
     "href": "index.html",
     "title": "Xu Lin",
     "section": "",
-    "text": "Ph.D. Student in Finance · Department of Finance, School of Economics, Xiamen University\nI am a Ph.D. student in Finance at the School of Economics, Xiamen University. My research lies at the intersection of corporate finance, international trade, and environmental economics, with a focus on applied microeconometrics and causal inference using Chinese firm-level data.\nMy current work studies how government policies, such as environmental regulation, trade shocks, and public procurement, shape firms’ investment, innovation, and export decisions."
+    "text": "Ph.D. Student in Finance · Department of Finance, School of Economics, Xiamen University\nI am a Ph.D. student in Finance at the School of Economics, Xiamen University. My research interests include corporate finance, green governance, innovation, geopolitics, and trade credit.\nMy work uses Chinese firm-level data and causal inference methods to study how policy shocks shape firms’ financing, supply-chain relationships, and investment decisions."
   },
   {
     "objectID": "index.html#research-interests",
     "href": "index.html#research-interests",
     "title": "Xu Lin",
     "section": "Research Interests",
-    "text": "Research Interests\nCorporate Finance · International Trade · Environmental Economics · Innovation · Applied Econometrics"
+    "text": "Research Interests\nCorporate Finance · Green Governance · Innovation · Geopolitics · Trade Credit"
   },
   {
     "objectID": "index.html#education",
@@ -158,21 +158,28 @@
     "href": "index.html#news",
     "title": "Xu Lin",
     "section": "News",
-    "text": "News\n\n20XX-XX New working paper: “[Paper Title]” is now available.\n20XX-XX Presented at [Conference Name]."
+    "text": "News\n\n2026-05 “Customer deleveraging, bargaining power, and trade credit occupation” (with Mengnan Zhu) is published in Economics Letters."
   },
   {
     "objectID": "zh/research.html",
     "href": "zh/research.html",
     "title": "研究",
     "section": "",
-    "text": "论文标题一\n与 合作者姓名 合作\nPDF 幻灯片\n\n\n摘要\n\n本文研究……利用……数据，发现……结果表明……\n\n\n\n论文标题二\n独立作者 · 报告于：会议 A、会议 B\nPDF\n\n\n摘要\n\n本文考察……基于交错双重差分设计，发现……"
+    "text": "Customer deleveraging, bargaining power, and trade credit occupation: Evidence from “Three Red Lines” policy\n与 Mengnan Zhu 合作 · Economics Letters, 2026, 264, 112982\n期刊页面"
+  },
+  {
+    "objectID": "zh/research.html#发表论文",
+    "href": "zh/research.html#发表论文",
+    "title": "研究",
+    "section": "",
+    "text": "Customer deleveraging, bargaining power, and trade credit occupation: Evidence from “Three Red Lines” policy\n与 Mengnan Zhu 合作 · Economics Letters, 2026, 264, 112982\n期刊页面"
   },
   {
     "objectID": "zh/research.html#工作论文",
     "href": "zh/research.html#工作论文",
     "title": "研究",
-    "section": "",
-    "text": "论文标题一\n与 合作者姓名 合作\nPDF 幻灯片\n\n\n摘要\n\n本文研究……利用……数据，发现……结果表明……\n\n\n\n论文标题二\n独立作者 · 报告于：会议 A、会议 B\nPDF\n\n\n摘要\n\n本文考察……基于交错双重差分设计，发现……"
+    "section": "工作论文",
+    "text": "工作论文\n\n论文标题一\n与 合作者姓名 合作\nPDF 幻灯片\n\n\n摘要\n\n本文研究……利用……数据，发现……结果表明……\n\n\n\n论文标题二\n独立作者 · 报告于：会议 A、会议 B\nPDF\n\n\n摘要\n\n本文考察……基于交错双重差分设计，发现……"
   },
   {
     "objectID": "zh/research.html#在研项目",
@@ -180,13 +187,6 @@
     "title": "研究",
     "section": "在研项目",
     "text": "在研项目\n\n项目标题三\n\n\n项目标题四（与 合作者姓名 合作）"
-  },
-  {
-    "objectID": "zh/research.html#发表论文",
-    "href": "zh/research.html#发表论文",
-    "title": "研究",
-    "section": "发表论文",
-    "text": "发表论文\n\n敬请期待。"
   },
   {
     "objectID": "zh/teaching.html",

@@ -25,14 +25,14 @@ about:
 Ph.D. Student in Finance · Department of Finance, School of Economics, Xiamen University
 :::
 
-I am a Ph.D. student in Finance at the School of Economics, Xiamen University. My research lies at the intersection of **corporate finance**, **international trade**, and **environmental economics**, with a focus on applied microeconometrics and causal inference using Chinese firm-level data.
+I am a Ph.D. student in Finance at the School of Economics, Xiamen University. My research interests include **corporate finance**, **green governance**, **innovation**, **geopolitics**, and **trade credit**.
 
 <!-- 用两三句话介绍你的研究问题和方法。下面是写法示例，可以直接改。 -->
-My current work studies how government policies, such as environmental regulation, trade shocks, and public procurement, shape firms' investment, innovation, and export decisions.
+My work uses Chinese firm-level data and causal inference methods to study how policy shocks shape firms' financing, supply-chain relationships, and investment decisions.
 
 ## Research Interests
 
-Corporate Finance · International Trade · Environmental Economics · Innovation · Applied Econometrics
+Corporate Finance · Green Governance · Innovation · Geopolitics · Trade Credit
 
 ## Education
 
@@ -43,6 +43,5 @@ Corporate Finance · International Trade · Environmental Economics · Innovatio
 ::: {.news}
 ## News
 
-- [20XX-XX]{.date} New working paper: "[Paper Title]" is now available.
-- [20XX-XX]{.date} Presented at [Conference Name].
+- [2026-05]{.date} "Customer deleveraging, bargaining power, and trade credit occupation" (with Mengnan Zhu) is published in *Economics Letters*.
 :::
