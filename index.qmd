@@ -32,16 +32,20 @@ My work uses Chinese firm-level data and causal inference methods to study how p
 
 ## Research Interests
 
-Corporate Finance · Green Governance · Innovation · Geopolitics · Trade Credit
+::: {.tags}
+[Corporate Finance]{.tag} [Green Governance]{.tag} [Innovation]{.tag} [Geopolitics]{.tag} [Trade Credit]{.tag}
+:::
 
 ## Education
 
-**Ph.D. in Finance**, Xiamen University, 2024 – present\
-**M.A. in Economics**, [University], 20XX\
-**B.A. in Economics**, [University], 20XX
+::: {.timeline}
+- [2024 – present]{.date} **Ph.D. in Finance** · [Xiamen University]{.inst}
+- [20XX]{.date} **M.A. in Economics** · [[University]]{.inst}
+- [20XX]{.date} **B.A. in Economics** · [[University]]{.inst}
+:::
 
-::: {.news}
 ## News
 
+::: {.news}
 - [2026-05]{.date} "Customer deleveraging, bargaining power, and trade credit occupation" (with Mengnan Zhu) is published in *Economics Letters*.
 :::

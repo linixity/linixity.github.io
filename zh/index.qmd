@@ -32,16 +32,20 @@ about:
 
 ## 研究领域
 
-公司金融 · 绿色治理 · 创新 · 地缘政治 · 商业信用
+::: {.tags}
+[公司金融]{.tag} [绿色治理]{.tag} [创新]{.tag} [地缘政治]{.tag} [商业信用]{.tag}
+:::
 
 ## 教育背景
 
-**金融学博士**，厦门大学，2024 年至今\
-**经济学硕士**，[学校]，20XX 年\
-**经济学学士**，[学校]，20XX 年
+::: {.timeline}
+- [2024 年至今]{.date} **金融学博士** · [厦门大学]{.inst}
+- [20XX 年]{.date} **经济学硕士** · [[学校]]{.inst}
+- [20XX 年]{.date} **经济学学士** · [[学校]]{.inst}
+:::
 
-::: {.news}
 ## 最新动态
 
+::: {.news}
 - [2026-05]{.date} 论文 “Customer deleveraging, bargaining power, and trade credit occupation”（与 Mengnan Zhu 合作）发表于 *Economics Letters*。
 :::

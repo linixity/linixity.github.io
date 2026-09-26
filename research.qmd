@@ -10,7 +10,7 @@ title: "Research"
 
 ## Publications
 
-::: {.paper}
+::: {.paper .published}
 [Customer deleveraging, bargaining power, and trade credit occupation: Evidence from "Three Red Lines" policy]{.paper-title}
 
 [with Mengnan Zhu · *Economics Letters*, 2026, 264, 112982]{.paper-meta}
