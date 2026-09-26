@@ -40,8 +40,7 @@ My work uses Chinese firm-level data and causal inference methods to study how p
 
 ::: {.timeline}
 - [2024 – present]{.date} **Ph.D. in Finance** · [Xiamen University]{.inst}
-- [20XX]{.date} **M.A. in Economics** · [[University]]{.inst}
-- [20XX]{.date} **B.A. in Economics** · [[University]]{.inst}
+- [2021 – 2024]{.date} **M.A. in International Finance** · [Shanghai International Studies University]{.inst}
 :::
 
 ## News
